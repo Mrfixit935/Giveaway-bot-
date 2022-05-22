@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.33.0",
     "discord-giveaways": "^5.1.1",
     "discord.js": "^13.6.0",
     "fs": "^0.0.1-security",
